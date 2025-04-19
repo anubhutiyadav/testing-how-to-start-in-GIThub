@@ -1,0 +1,179 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: 0;
+}
+
+.Logo {
+    background-color: black;
+}
+
+.logo_image {
+    height: 100px;
+    width: 300px;
+}
+
+.header_nav {
+    padding: 40px;
+}
+
+.nav_flex {
+    display: flex;
+
+}
+
+.nav_text {
+    padding: 5px 25px 0px 10px;
+    list-style: none;
+    font-size: 20px;
+    font-family: sans-serif;
+}
+
+h1 {
+    font-family: sans-serif;
+    font-size: 45px;
+    padding-bottom: 25px;
+}
+
+h2 {
+    font-size: 30px;
+    padding-top: 30px;
+}
+
+h3 {
+    font-size: 40px;
+}
+
+.container {
+    float: left;
+    width: 100%;
+}
+
+.container_text {
+    float: left;
+    background-color: gainsboro;
+    display: flex;
+}
+
+.contact_tb {
+    padding: 45px;
+    width: 50%;
+    line-height: 2em;
+    /* height: 550px; */
+    font-family: sans-serif;
+}
+
+.contact_form {
+    float: left;
+    padding: 40px 22px 15px;
+    background-color: gainsboro;
+    /* height: 615px; */
+    width: 30%;
+}
+
+.cnt_form {
+    font-size: 20px;
+    font-family: sans-serif;
+
+}
+
+.ctf {
+    background-color: white;
+    border-radius: 10px;
+    /* height: 570px; */
+    width: 100%;
+    float: center;
+    padding: 30px;
+    line-height: 3.55em;
+}
+
+.submit {
+    font-size: 20px;
+    padding: 15px 140px 15px 140px;
+    background-color: #F4BF00;
+    border: none;
+    font-weight: 700;
+    border-radius: 8px;
+}
+
+.ctf_form {
+    text-align: center;
+}
+
+.input_field {
+    border-style: double;
+    border-radius: 4px;
+    padding: 10px;
+    font-size: 15px;
+}
+
+#message {
+    border-style: double;
+    border-radius: 4px;
+    padding: 10px;
+    font-size: 15px;
+}
+
+.subscribe_text {
+    display: flex;
+    background-color: gainsboro;
+    /* height: 135px; */
+    font-family: sans-serif;
+    font-size: 50px;
+    font-weight: 700;
+    padding: 60px;
+}
+
+.subscribe_dis {
+    display: flex;
+
+}
+
+.sub_mail {
+    padding: 15px 40px 15px 40px;
+    border-radius: 10px;
+    font-size: 25px;
+    background-color: #F4BF00;
+}
+
+.email_input {
+    padding: 18px 30px 18px 15px;
+    border-radius: 5px;
+    font-size: 20px;
+}
+
+.connect {
+    display: flex;
+    background-color: #F4BF00;
+    /* height: 65px; */
+    font-family: sans-serif;
+    font-size: 30px;
+    padding: 30px;
+}
+
+.social_image {
+    padding-left: 5px;
+    padding-right: 30px;
+    padding-top: 8px;
+}
+
+.footer_main {
+    font-family: sans-serif;
+    padding-top: 40px;
+    display: flex;
+    background-color: black;
+    /* height: 300px; */
+    color: white;
+}
+
+.heading {
+    font-size: 30px;
+    padding-bottom: 30px;
+}
+
+.footer_links {
+    list-style: none;
+    line-height: 2.15em;
+    padding-left: 90px;
+    padding-right: 60px;
+}
